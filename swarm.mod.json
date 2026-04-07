@@ -1,0 +1,11 @@
+{
+  "id": "dev.swarmprotocol.solana",
+  "name": "Swarm Solana SDK",
+  "version": "0.1.0",
+  "swarmApi": "^0.1.0",
+  "entrypoint": {
+    "type": "worker",
+    "url": "https://solana.swarmprotocol.fun/v0.1.0/worker.js"
+  },
+  "permissions": []
+}
